@@ -15,7 +15,7 @@ try:
     from scipy.optimize import curve_fit
     import matplotlib.pyplot as plt
 except: 
-    print('Ups! una librería no se importó :(')
+    print('Ups! una librería no se import :(')
 
 
 
